@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { id: 2, folderId: 'family', src: './images/family1.jpg', alt: 'Family Photo 1' },
         { id: 3, folderId: 'friends', src: './images/friends3.jpg', alt: 'Friend Photo 1' },
         { id: 4, folderId: 'vacations', src: './images/vocation2.jpg', alt: 'Vacation Photo 2' },
-        { id: 5, folderId: 'friends', src: './images/friends2.jpg', alt: 'Family Photo 2' },
+        { id: 5, folderId: 'friends', src: './images/friends1.jpg', alt: 'Friends Photo 2' },
         { id: 6, folderId: 'friends', src: './images/friends.jpg', alt: 'Friend Photo 2' },
         { id: 6, folderId: 'nature', src: './images/nature.jpg', alt: 'Nature Photo 2' },
         { id: 6, folderId: 'nature', src: './images/nature1.jpg', alt: 'Nature Photo 2' }
