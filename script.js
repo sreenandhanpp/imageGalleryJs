@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
         { id: 4, folderId: 'vacations', src: './images/vocation2.jpg', alt: 'Vacation Photo 2' },
         { id: 5, folderId: 'friends', src: './images/friends2.jpg', alt: 'Family Photo 2' },
         { id: 6, folderId: 'friends', src: './images/friends.jpg', alt: 'Friend Photo 2' },
-        { id: 6, folderId: 'nature', src: './images/natuere.jpg', alt: 'Nature Photo 2' },
-        { id: 6, folderId: 'nature', src: './images/nature2.jpg', alt: 'Nature Photo 2' }
+        { id: 6, folderId: 'nature', src: './images/nature.jpg', alt: 'Nature Photo 2' },
+        { id: 6, folderId: 'nature', src: './images/nature1.jpg', alt: 'Nature Photo 2' }
     ];
 
     const folderList = document.getElementById('folders');
