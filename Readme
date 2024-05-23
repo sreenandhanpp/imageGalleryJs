@@ -1,0 +1,46 @@
+Project Name: Photo Management Template
+
+Description:
+This is a simple web template for managing and displaying photos. It allows users to organize photos into different folders and provides features for searching, changing layout, and customizing the appearance.
+
+File Structure:
+- index.html: Main HTML file containing the structure of the template.
+- styles.css: CSS file for styling the template.
+- script.js: JavaScript file for handling interactive functionality.
+- images/: Directory containing sample images for demonstration purposes.
+
+Setup Instructions:
+1. Clone the repository: `git clone <repository-url>`
+2. Open `index.html` in a web browser to view the template.
+
+Usage:
+- Click on a folder to display photos from that folder.
+- Use the search bar to filter photos by keywords.
+- Click on the settings button to customize the appearance.
+- Apply changes in the settings modal to see immediate updates.
+
+Customization:
+To customize the template, you can modify the following files:
+
+1. index.html:
+   - Modify the HTML structure to change the layout or add new elements.
+   - Update the `src` attribute of the `img` tags to use your own images.
+   - Adjust the classes and IDs of elements to match your styling preferences.
+
+2. styles.css:
+   - Modify CSS rules to change the appearance of various elements.
+   - Add new styles to customize the look and feel of the template.
+   - Update colors, fonts, margins, and paddings as needed.
+
+3. script.js:
+   - Update the JavaScript code to add new functionality or modify existing behavior.
+   - Customize event listeners, functions, and variables to suit your requirements.
+   - Add additional features such as image previews, slideshow functionality, or integration with external services.
+
+Dependencies:
+- Bootstrap 5: CSS framework for styling the template.
+- jQuery: JavaScript library for DOM manipulation.
+
+Contributors:
+- Sreenandhan P P
+
